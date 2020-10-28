@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Juan",
+        "hobby": "Videojuegos",
+        "age": 21,
+        "phone": "3827491456",
+        "address": "Address 1 number 2"
+    },
+    {
+        "name": "Guido",
+        "hobby": "Anime",
+        "age": 22,
+        "phone": "2818463748",
+        "address": "Address 31"
+    },
+    {
+        "name": "Hugo",
+        "hobby": "Futbol",
+        "age": 22,
+        "phone": "3321367527",
+        "address": "Address 100 number 10"
+    },
+    {
+        "name": "Javier",
+        "hobby": "Americano",
+        "age": 21,
+        "phone": "8372819283",
+        "address": "Address 102"
+    }
+]
